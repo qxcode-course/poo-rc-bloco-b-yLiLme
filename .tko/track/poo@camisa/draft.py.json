@@ -1,0 +1,24 @@
+{
+    "patches": [
+        {
+            "label": "2025-10-08_21-37-23",
+            "content": "@@ -4,47 +4,21 @@\n nt(%22\n-insere ai teu nome por gentileza%22)%0Ainput=(\n+eai to testando%22\n )\n",
+            "lines": "1"
+        },
+        {
+            "label": "2025-10-08_21-38-05",
+            "content": "@@ -0,0 +1,50 @@\n+print(%22insere ai teu nome por gentileza%22)%0Ainput=()\n",
+            "lines": "2"
+        },
+        {
+            "label": "2025-10-11_15-56-38",
+            "content": "@@ -1,24 +0,0 @@\n-print(%22teste fodastico%22)\n",
+            "lines": "0"
+        },
+        {
+            "label": "2025-10-11_15-56-57",
+            "content": "print(\"teste fodastico\")",
+            "lines": "1"
+        }
+    ]
+}
